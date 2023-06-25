@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option csharp_namespace = "PowerPointOpener";
+
+package PowerPointOpener;
+
+service PowerPointOpener {
+  rpc OpenSlide (OpenSlideRequest) returns (OpenSlideReply);
+}
+
+message OpenSlideRequest {
+  string filePath = 1;
+  int32 slideNumber = 2;
+}
+
+message OpenSlideReply {
+  string message = 1;
+}

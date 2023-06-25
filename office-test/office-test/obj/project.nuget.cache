@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VtDqVZoY8/FqO1viE60PwEtqt2J8N+/z2Ok3p8/bjImSfKMqOu7oOPEcAMBV+qhGma/A3C9mkOnu1hJTLnvh9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carlo\\Source\\Repos\\office-test\\office-test\\office-test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlo\\.nuget\\packages\\grpc.tools\\2.38.1\\grpc.tools.2.38.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\carlo\Source\Repos\office-test\office-test\obj\Debug\office-test.csproj.AssemblyReference.cache
+C:\Users\carlo\Source\Repos\office-test\office-test\obj\Debug\office-test.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Source\Repos\office-test\office-test\obj\Debug\office-test.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Source\Repos\office-test\office-test\bin\Debug\office-test.exe.config
+C:\Users\carlo\Source\Repos\office-test\office-test\bin\Debug\office-test.exe
+C:\Users\carlo\Source\Repos\office-test\office-test\bin\Debug\office-test.pdb
+C:\Users\carlo\Source\Repos\office-test\office-test\obj\Debug\office-test.csproj.ResolveComReference.cache
+C:\Users\carlo\Source\Repos\office-test\office-test\obj\Debug\office-test.exe
+C:\Users\carlo\Source\Repos\office-test\office-test\obj\Debug\office-test.pdb
